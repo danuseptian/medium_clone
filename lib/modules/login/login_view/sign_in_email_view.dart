@@ -84,7 +84,7 @@ class SignInEmailView extends StatelessWidget {
                           primary: Colors.green[800],
                         ),
                         onPressed: () async {
-                          Get.off(DashboardView());
+                          Get.offAll(DashboardView());
                         },
                         child: Text(
                           'Login',

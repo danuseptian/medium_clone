@@ -43,7 +43,7 @@ class SignUpView extends StatelessWidget {
                       side: BorderSide(color: Colors.grey),
                     ),
                     onPressed: () {
-                      Get.off(() => DashboardView());
+                      Get.offAll(() => DashboardView());
                     },
                     child: Text('Sign up with Email'),
                   ),
@@ -78,7 +78,7 @@ class SignUpView extends StatelessWidget {
               ),
               InkWell(
                 onTap: () {
-                  Get.off(() => DashboardView());
+                  Get.offAll(() => DashboardView());
                 },
                 child: Container(
                   height: 40,
@@ -97,7 +97,7 @@ class SignUpView extends StatelessWidget {
                   Text('Already have an account?'),
                   TextButton(
                     onPressed: () {
-                      Get.off(() => SignInView());
+                      Get.offAll(() => SignInView());
                     },
                     child: Text(
                       'Sign in',
