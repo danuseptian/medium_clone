@@ -1,16 +1,8 @@
-# medium_by_danu
+This is an app where i clone UI medium app. In this app, i use Getx state management and view controller structure for clean coding purpose. 
+I create more than 20+ screens.
+Feel free to see how i code and how i implement Getx state management with view controller structure.
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/71324740/162732725-ca93c329-9f9b-4cdb-9adf-be7f1ebbf66e.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732732-9377bf50-f209-48f6-b626-ffa1bafdbed4.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732735-35290ee1-f326-4a2c-bd87-a3bddaad5dd3.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732737-d445f6fe-3549-4a51-ad36-cfe99fd9201a.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732743-38a1f268-5a3b-4172-a30f-e82e010ae98c.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732748-b34ddf1b-e705-418f-b177-cfd2fd8a20b7.png" width=20% height=20%> <img src="hhttps://user-images.githubusercontent.com/71324740/162732751-d8b0f392-6b90-46ec-b529-2736fd1347b5.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732752-b7eaa06f-f0e2-4b8b-b45c-c627e1a00d49.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732754-32872e6b-ed3b-4f90-9477-664981515925.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732756-ab455592-92fa-4b02-8d79-2b714ac919ff.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732758-93d23625-7607-4f74-83d5-5ba8c34032a9.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732761-85200ed4-d37a-4c44-981b-6df21ca61b4d.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732765-62dad2f3-1337-4e72-8046-243f256d0a01.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732768-12c1d994-4129-4216-b1ea-bd4c5af996ba.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732773-18a7b214-9f07-4195-be14-72ba2b7e99a0.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732775-fc6cf9eb-e88c-4028-b6cb-7b6c863a59d5.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732779-5b05b04e-dfc8-4077-86d1-a9bec5685136.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732782-81dd3bca-66da-48c8-a67f-e210f529c7a5.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732784-b4ce6601-a59a-432f-ba51-09539d62ad6b.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/162732786-25957e40-71f8-40a1-8108-625878089986.png" width=20% height=20%> 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
